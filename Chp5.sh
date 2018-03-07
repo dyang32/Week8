@@ -4,7 +4,7 @@
 
 #This script deals with the linux kelnel
 
-# The followinf shows what has been happening to the cpu since boot
+# The following shows what has been happening to the cpu since boot
 
 echo "==> What information about your system would you like to see?"
 for i in cpu usb Grub kernel 
